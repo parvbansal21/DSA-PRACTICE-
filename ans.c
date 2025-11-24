@@ -13,7 +13,7 @@ int main() {
         cin >> arr[i];
     }
 
-    // Printing array
+    // Printing arrray
     cout << "Array elements: ";
     for (int i = 0; i < n; i++) {
         cout << arr[i] << " ";
