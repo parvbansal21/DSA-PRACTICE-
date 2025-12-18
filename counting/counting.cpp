@@ -4,7 +4,7 @@
 using namespace std;
 int main (){
     int count=0;
-    int a = 203;
+    int a = 2063;
     while (a>0){
         int lastdigit=a%10;
         count++;
