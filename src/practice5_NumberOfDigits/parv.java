@@ -1,5 +1,3 @@
-package practice5_NumberOfDigits;
-
 import java.util.*;
 
 public class parv {
@@ -13,5 +11,6 @@ public class parv {
             dig++;
         }
         System.out.println(dig);
+        sc.close();
     }
 }
